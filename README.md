@@ -16,7 +16,6 @@ Once you are in the directory where `server.py` or `client.py` file exists, run 
 ### Client
 > $ python client.py hostname
 
-#### Example
-For server and client running on the same system
+#### Output
 ![server_censored](https://user-images.githubusercontent.com/46609498/118347024-a7660880-b55d-11eb-9345-cb786b35f257.jpg)
 ![client_censored](https://user-images.githubusercontent.com/46609498/118347027-a7fe9f00-b55d-11eb-8c34-24585da85081.jpg)
