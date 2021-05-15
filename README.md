@@ -5,7 +5,7 @@ The server asks for username when user wants to join the chatroom and accepts th
 
 ## Download
 Run the following command in your terminal to save the repository in your system
-> $ git clone https://github.com/Rishija/python_chatServer.git
+> $ git clone hhttps://github.com/VinayKataria/Chatroom.git
 
 ## Run
 Once you are in the directory where `server.py` or `client.py` file exists, run by typing the following commands in your terminal.
@@ -18,39 +18,5 @@ Once you are in the directory where `server.py` or `client.py` file exists, run 
 
 #### Example
 For server and client running on the same system
-
-**Server**
-> $ python server.py
-<pre>
-				SERVER WORKING 
-Client (127.0.0.1, 51638) connected  [ tesla ]
-Client (127.0.0.1, 51641) connected  [ albert ]
-Client (127.0.0.1, 51641) is offline  [ albert ]
-</pre>
-
-
-
-**Client 1**
-> $ python client.py localhost
-
-<pre>
-CREATING NEW ID:
-Enter username: tesla
-Welcome to chat room. Enter 'tata' anytime to exit
-You: Hello
-albert joined the conversation 
-albert: world
-albert left the conversation
-You:
-</pre>
-
-**Client 2**
-> $ python client.py localhost
-<pre>
-CREATING NEW ID:
-Enter username: albert
-Welcome to chat room. Enter 'tata' anytime to exit
-You: World
-You: tata
-DISCONNECTED!!
-</pre>
+![server_censored](https://user-images.githubusercontent.com/46609498/118347024-a7660880-b55d-11eb-9345-cb786b35f257.jpg)
+![client_censored](https://user-images.githubusercontent.com/46609498/118347027-a7fe9f00-b55d-11eb-8c34-24585da85081.jpg)
